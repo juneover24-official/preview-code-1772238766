@@ -1,0 +1,31 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "1033587418",
+  "updated_at": "2026-04-22T16:19:30.480224",
+  "skins": [
+    {
+      "name": "猫奴手写改白",
+      "file": "猫奴手写白融.bdi",
+      "thumb": "猫奴手写白融.bdi_py_26_light_thumb.png",
+      "full": "猫奴手写白融.bdi_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜猫奴",
+      "file": "猫奴融.bdi",
+      "thumb": "猫奴融.bdi_py_26_light_thumb.png",
+      "full": "猫奴融.bdi_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜猫奴",
+      "file": "猫奴.bdi",
+      "thumb": "猫奴.bdi_py_26_light_thumb.png",
+      "full": "猫奴.bdi_py_26_light.png"
+    },
+    {
+      "name": "猫奴手写改白",
+      "file": "猫奴手写白.bdi",
+      "thumb": "猫奴手写白.bdi_py_26_light_thumb.png",
+      "full": "猫奴手写白.bdi_py_26_light.png"
+    }
+  ]
+}

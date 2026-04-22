@@ -1,0 +1,19 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "1091790211",
+  "updated_at": "2026-04-22T16:19:20.180459",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "盯喵狂魔.bdi",
+      "thumb": "盯喵狂魔.bdi_py_26_light_thumb.png",
+      "full": "盯喵狂魔.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "盯喵狂魔融.bdi",
+      "thumb": "盯喵狂魔融.bdi_py_26_light_thumb.png",
+      "full": "盯喵狂魔融.bdi_py_26_light.png"
+    }
+  ]
+}

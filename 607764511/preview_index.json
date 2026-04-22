@@ -1,0 +1,31 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "607764511",
+  "updated_at": "2026-04-22T16:19:24.946074",
+  "skins": [
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅脆融.bdi",
+      "thumb": "珀耳塞福涅脆融.bdi_py_26_light_thumb.png",
+      "full": "珀耳塞福涅脆融.bdi_py_26_light.png"
+    },
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅闷.bdi",
+      "thumb": "珀耳塞福涅闷.bdi_py_26_light_thumb.png",
+      "full": "珀耳塞福涅闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅闷融.bdi",
+      "thumb": "珀耳塞福涅闷融.bdi_py_26_light_thumb.png",
+      "full": "珀耳塞福涅闷融.bdi_py_26_light.png"
+    },
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅脆.bdi",
+      "thumb": "珀耳塞福涅脆.bdi_py_26_light_thumb.png",
+      "full": "珀耳塞福涅脆.bdi_py_26_light.png"
+    }
+  ]
+}

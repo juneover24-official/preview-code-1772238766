@@ -1,0 +1,19 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "1087522550",
+  "updated_at": "2026-04-22T16:19:31.209085",
+  "skins": [
+    {
+      "name": "纸鸢｜猫奴",
+      "file": "猫奴.bds",
+      "thumb": "猫奴.bds_py_26_light_thumb.png",
+      "full": "猫奴.bds_py_26_light.png"
+    },
+    {
+      "name": "猫奴手写改白",
+      "file": "猫奴手写白.bds",
+      "thumb": "猫奴手写白.bds_py_26_light_thumb.png",
+      "full": "猫奴手写白.bds_py_26_light.png"
+    }
+  ]
+}

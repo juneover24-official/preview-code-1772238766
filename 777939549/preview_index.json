@@ -1,0 +1,19 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "777939549",
+  "updated_at": "2026-04-22T16:19:21.640536",
+  "skins": [
+    {
+      "name": "Say Yes To Heaven无漂浮",
+      "file": "SayYesToHeaven无漂浮.bdi",
+      "thumb": "SayYesToHeaven无漂浮.bdi_py_26_light_thumb.png",
+      "full": "SayYesToHeaven无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "file": "SayYesToHeaven.bdi",
+      "thumb": "SayYesToHeaven.bdi_py_26_light_thumb.png",
+      "full": "SayYesToHeaven.bdi_py_26_light.png"
+    }
+  ]
+}

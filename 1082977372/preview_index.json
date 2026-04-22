@@ -1,0 +1,19 @@
+{
+  "qq_number": "1772238766",
+  "group_number": "1082977372",
+  "updated_at": "2026-04-22T16:19:26.681238",
+  "skins": [
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅闷.bds",
+      "thumb": "珀耳塞福涅闷.bds_py_26_light_thumb.png",
+      "full": "珀耳塞福涅闷.bds_py_26_light.png"
+    },
+    {
+      "name": "珀耳塞福涅",
+      "file": "珀耳塞福涅脆.bds",
+      "thumb": "珀耳塞福涅脆.bds_py_26_light_thumb.png",
+      "full": "珀耳塞福涅脆.bds_py_26_light.png"
+    }
+  ]
+}
