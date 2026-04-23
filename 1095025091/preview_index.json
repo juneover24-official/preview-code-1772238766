@@ -1,38 +1,8 @@
 {
   "qq_number": "1772238766",
   "group_number": "1095025091",
-  "updated_at": "2026-04-22T16:19:42.180189",
+  "updated_at": "2026-04-23T15:52:38.967353",
   "skins": [
-    {
-      "name": "纸鸢｜罪与爱同歌",
-      "file": "罪与爱同歌.bds",
-      "thumb": "罪与爱同歌.bds_py_26_light_thumb.png",
-      "full": "罪与爱同歌.bds_py_26_light.png"
-    },
-    {
-      "name": "纸鸢｜罪与爱同歌",
-      "file": "罪与爱同歌脆.bds",
-      "thumb": "罪与爱同歌脆.bds_py_26_light_thumb.png",
-      "full": "罪与爱同歌脆.bds_py_26_light.png"
-    },
-    {
-      "name": "纸鸢｜枯 闷",
-      "file": "枯闷.bds",
-      "thumb": "枯闷.bds_py_26_light_thumb.png",
-      "full": "枯闷.bds_py_26_light.png"
-    },
-    {
-      "name": "纸鸢｜涩星",
-      "file": "涩星.bds",
-      "thumb": "涩星.bds_py_26_light_thumb.png",
-      "full": "涩星.bds_py_26_light.png"
-    },
-    {
-      "name": "纸鸢｜枯",
-      "file": "枯.bds",
-      "thumb": "枯.bds_py_26_light_thumb.png",
-      "full": "枯.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "枯闷.bdi",
@@ -80,6 +50,36 @@
       "file": "涩星.bdi",
       "thumb": "涩星.bdi_py_26_light_thumb.png",
       "full": "涩星.bdi_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜罪与爱同歌",
+      "file": "罪与爱同歌.bds",
+      "thumb": "罪与爱同歌.bds_py_26_light_thumb.png",
+      "full": "罪与爱同歌.bds_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜罪与爱同歌",
+      "file": "罪与爱同歌脆.bds",
+      "thumb": "罪与爱同歌脆.bds_py_26_light_thumb.png",
+      "full": "罪与爱同歌脆.bds_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜枯 闷",
+      "file": "枯闷.bds",
+      "thumb": "枯闷.bds_py_26_light_thumb.png",
+      "full": "枯闷.bds_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜涩星",
+      "file": "涩星.bds",
+      "thumb": "涩星.bds_py_26_light_thumb.png",
+      "full": "涩星.bds_py_26_light.png"
+    },
+    {
+      "name": "纸鸢｜枯",
+      "file": "枯.bds",
+      "thumb": "枯.bds_py_26_light_thumb.png",
+      "full": "枯.bds_py_26_light.png"
     }
   ]
 }

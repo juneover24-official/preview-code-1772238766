@@ -1,14 +1,8 @@
 {
   "qq_number": "1772238766",
   "group_number": "1085329575",
-  "updated_at": "2026-04-22T16:19:21.152552",
+  "updated_at": "2026-04-23T15:52:38.131780",
   "skins": [
-    {
-      "name": "飞鸟集",
-      "file": "飞鸟集.bds",
-      "thumb": "飞鸟集.bds_py_26_light_thumb.png",
-      "full": "飞鸟集.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "飞鸟集融合底.bdi",
@@ -20,6 +14,12 @@
       "file": "飞鸟集.bdi",
       "thumb": "飞鸟集.bdi_py_26_light_thumb.png",
       "full": "飞鸟集.bdi_py_26_light.png"
+    },
+    {
+      "name": "飞鸟集",
+      "file": "飞鸟集.bds",
+      "thumb": "飞鸟集.bds_py_26_light_thumb.png",
+      "full": "飞鸟集.bds_py_26_light.png"
     }
   ]
 }
