@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-06-01T07:18:45+00:00",
+  "updated_at": "2026-06-04T15:17:08+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -14,6 +14,12 @@
       "file": "缄默的雾融.bdi",
       "thumb": "缄默的雾融.bdi_py_26_light_thumb.png",
       "full": "缄默的雾融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "距离2",
+      "file": "距离2.bdi",
+      "thumb": "距离2.bdi_py_26_light_thumb.png",
+      "full": "距离2.bdi_py_26_light_thumb.png"
     }
   ]
 }
