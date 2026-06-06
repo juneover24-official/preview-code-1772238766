@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-06-05T05:14:30+00:00",
+  "updated_at": "2026-06-06T03:57:16+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -74,6 +74,12 @@
       "file": "毒蛛1融.bdi",
       "thumb": "毒蛛1融.bdi_py_26_light_thumb.png",
       "full": "毒蛛1融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜毒蛛",
+      "file": "毒蛛1.bds",
+      "thumb": "毒蛛1.bds_py_26_light_thumb.png",
+      "full": "毒蛛1.bds_py_26_light_thumb.png"
     }
   ]
 }
