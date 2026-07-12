@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "1095025091",
-  "updated_at": "2026-06-04T17:52:59+00:00",
+  "updated_at": "2026-07-12T07:08:39+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -92,6 +92,12 @@
       "file": "输液室1.bds",
       "thumb": "输液室1.bds_py_26_light_thumb.png",
       "full": "输液室1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜输液室 音效二",
+      "file": "输液室1融.bdi",
+      "thumb": "输液室1融.bdi_py_26_light_thumb.png",
+      "full": "输液室1融.bdi_py_26_light_thumb.png"
     }
   ]
 }
