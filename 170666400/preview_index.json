@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-07-20T20:25:32+00:00",
+  "updated_at": "2026-07-20T20:27:41+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -140,6 +140,12 @@
       "file": "餮食一.bds",
       "thumb": "餮食一.bds_py_26_light_thumb.png",
       "full": "餮食一.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜餮食 音效一",
+      "file": "餮食一-融合底.bdi",
+      "thumb": "餮食一-融合底.bdi_py_26_light_thumb.png",
+      "full": "餮食一-融合底.bdi_py_26_light_thumb.png"
     }
   ]
 }
