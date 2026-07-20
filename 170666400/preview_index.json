@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-07-20T20:27:41+00:00",
+  "updated_at": "2026-07-20T20:41:15+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -146,6 +146,12 @@
       "file": "餮食一-融合底.bdi",
       "thumb": "餮食一-融合底.bdi_py_26_light_thumb.png",
       "full": "餮食一-融合底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜代码天使",
+      "file": "代码天使脆.bdi",
+      "thumb": "代码天使脆.bdi_py_26_light_thumb.png",
+      "full": "代码天使脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
