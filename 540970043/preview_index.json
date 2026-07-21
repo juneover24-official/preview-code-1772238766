@@ -1,13 +1,19 @@
 {
   "qq_number": "1772238766",
   "group_number": "540970043",
+  "updated_at": "2026-07-21T09:22:08+00:00",
   "skins": [
     {
       "name": "纸鸢｜病变",
       "file": "病变2.bdi",
       "thumb": "病变2.bdi_py_26_light_thumb.png",
       "full": "病变2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜病变",
+      "file": "病变.bdi",
+      "thumb": "病变.bdi_py_26_light_thumb.png",
+      "full": "病变.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-21T09:21:35+00:00"
+  ]
 }
