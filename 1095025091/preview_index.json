@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "1095025091",
-  "updated_at": "2026-07-12T07:08:39+00:00",
+  "updated_at": "2026-07-24T22:34:45+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -98,6 +98,12 @@
       "file": "输液室1融.bdi",
       "thumb": "输液室1融.bdi_py_26_light_thumb.png",
       "full": "输液室1融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜花時雨 音效一",
+      "file": "花時雨一融合底.bdi",
+      "thumb": "花時雨一融合底.bdi_py_26_light_thumb.png",
+      "full": "花時雨一融合底.bdi_py_26_light_thumb.png"
     }
   ]
 }
