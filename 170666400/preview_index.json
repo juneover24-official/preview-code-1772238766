@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-07-31T09:38:28+00:00",
+  "updated_at": "2026-07-31T09:39:06+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -182,6 +182,12 @@
       "file": "花時雨二.bds",
       "thumb": "花時雨二.bds_py_26_light_thumb.png",
       "full": "花時雨二.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "纸鸢｜花時雨 音效一",
+      "file": "花時雨一.bdi",
+      "thumb": "花時雨一.bdi_py_26_light_thumb.png",
+      "full": "花時雨一.bdi_py_26_light_thumb.png"
     }
   ]
 }
