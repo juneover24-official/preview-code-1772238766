@@ -1,7 +1,7 @@
 {
   "qq_number": "1772238766",
   "group_number": "170666400",
-  "updated_at": "2026-11-05T13:47:18+00:00",
+  "updated_at": "2026-11-05T14:12:38+00:00",
   "skins": [
     {
       "name": "距离1",
@@ -195,6 +195,13 @@
       "thumb": "漾.bds_py_26_light_thumb.png",
       "full": "漾.bds_py_26_light_thumb.png",
       "file_id": "29443fb5967bddc63e61c533ffb4c53b"
+    },
+    {
+      "name": "纸鸢｜痴人怨",
+      "file": "痴人怨.bdi",
+      "thumb": "痴人怨.bdi_py_26_light_thumb.png",
+      "full": "痴人怨.bdi_py_26_light_thumb.png",
+      "file_id": "6d3c4777fb473a8d2a9e65686a20f967"
     }
   ]
 }
